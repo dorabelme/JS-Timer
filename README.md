@@ -7,7 +7,7 @@ Timer App built using vanilla Javascript.
 ## Short demo:
 
 <p align ="center">
-<img src="./timer.gif" alt="timer example">
+<img src="./JStimer.gif" alt="timer example">
 </p>
 
 ## Tech Stack
